@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje Trabalho como operador de caixa
-- :rocket: Futuro Desenvolvedor Web Front-End
-- 🌱 Estudando HTML5,CSS3 e JavaScript
+- :rocket: Futuro Desenvolvedor Fullstack
+- 🌱 Estudando HTML5,CSS3,JavaScript e Superior em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 <br>
   <div style="display:inline_block;">
